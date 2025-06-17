@@ -1,7 +1,7 @@
 // --- CONFIGURATION ---
 // IMPORTANT: Update this URL to the RAW link of the FOLDER containing your JSON files on GitHub.
 // It should end with a trailing slash '/'.
-const GITHUB_JSON_BASE_URL = 'https://raw.githubusercontent.com/ghiassabir/Quiz-with-json-data-loading-feature-fix-with-real-data/main/data/json/DT-T0-RW-M1.json/';
+const GITHUB_JSON_BASE_URL = 'https://raw.githubusercontent.com/ghiassabir/Quiz-with-json-data-loading-feature-fix-with-real-data/main/data/json/DT-T0-RW-M1.json';
 // The URL of your deployed Google Apps Script Web App.
 const APPS_SCRIPT_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbwAA7VRzbnJy4XMLJUMlS6X4aqUC2acuQQLbOL1VbV--m6sdXUJ17MswbI855eFTSxd/exec';
 
