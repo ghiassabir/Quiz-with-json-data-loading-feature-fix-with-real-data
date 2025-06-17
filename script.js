@@ -91,7 +91,7 @@ function startQuiz() {
         // Fallback for testing if no quiz parameter is provided
         // You might want to remove this or make it more robust for production
         console.warn("No 'quiz' URL parameter found. Using 'DT-T0-RW-M1' as a default for testing.");
-        quizNameFromUrl = "DT-T0-RW-M1"; // Default to the quiz name from your CSV
+        quizNameFromUrl = "DT-T0-MT-M1"; // Default to the quiz name from your CSV
     }
 
     if (quizTitle) { // Check if quizTitle element exists
