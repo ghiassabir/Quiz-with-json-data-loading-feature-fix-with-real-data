@@ -1,6 +1,8 @@
 // --- CONFIGURATION ---
 // The URL to the RAW CSV file on GitHub.
-const GITHUB_CSV_URL = 'https://raw.githubusercontent.com/ghiassabir/New-Approach-Quiz-and-Dashboard-11-june/main/data/question_bank.csv';
+//const GITHUB_CSV_URL = 'https://raw.githubusercontent.com/ghiassabir/New-Approach-Quiz-and-Dashboard-11-june/main/data/question_bank.csv';
+const GITHUB_CSV_URL = 'https://raw.githubusercontent.com/ghiassabir/Quiz-with-json-data-loading-feature-fix-with-real-data/main/data/question_bank.csv';
+
 // The URL of your deployed Google Apps Script Web App.
 const APPS_SCRIPT_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbwAA7VRzbnJy4XMLJUMlS6X4aqUC2acuQQLbOL1VbV--m6sdXUJ17MswbI855eFTSxd/exec';
 
